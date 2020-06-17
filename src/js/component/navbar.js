@@ -4,7 +4,7 @@ function Navbar() {
 	return (
 		<div>
 			<nav className="navbar navbar-expand-lg npy-4 bg-dark text-white-50 mb-3">
-				<a className="navbar-brand" href="#">
+				<a className="navbar-brand text-white" href="#">
 					{"Traveling Hipster"}
 				</a>
 				<button
@@ -20,23 +20,23 @@ function Navbar() {
 				<div className="collapse navbar-collapse" id="navbarNav">
 					<ul className="navbar-nav ml-auto">
 						<li className="nav-item active">
-							<a className="nav-link" href="#">
+							<a className="nav-link text-white" href="#">
 								{"Home"}
 								<span className="sr-only">(current)</span>
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="#">
+							<a className="nav-link text-white" href="#">
 								{"About"}
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="#">
+							<a className="nav-link text-white" href="#">
 								{"Services"}
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="#">
+							<a className="nav-link text-white" href="#">
 								{"Contact"}
 							</a>
 						</li>
