@@ -3,8 +3,8 @@ import React from "react";
 function CardDeck() {
 	return (
 		<div className="container-fluid">
-			<div className="card-deck">
-				<div className="card">
+			<div className="card-deck mb-4">
+				<div className="card ml-0">
 					<img
 						src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Above_Gotham.jpg/320px-Above_Gotham.jpg"
 						className="card-img-top"
@@ -49,7 +49,7 @@ function CardDeck() {
 						</p>
 					</div>
 				</div>
-				<div className="card">
+				<div className="card mr-0">
 					<img
 						src="https://media.distractify.com/brand-img/mU-qlXZZc/480x252/gettyimages-1177141282-1592074514695.jpg"
 						className="card-img-top"

@@ -2,7 +2,7 @@ import React from "react";
 
 function Jumbo() {
 	return (
-		<div className="jumbotron">
+		<div className="jumbotron mb-3">
 			<h1 className="display-4">{"A Warm Welcome!"}</h1>
 			<p className="lead">
 				{"Live with no excuses and travel with no regrets..."}

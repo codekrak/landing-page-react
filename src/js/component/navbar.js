@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
 	return (
 		<div>
-			<nav className="navbar navbar-expand-lg npy-4 bg-dark text-white-50">
+			<nav className="navbar navbar-expand-lg npy-4 bg-dark text-white-50 mb-3">
 				<a className="navbar-brand" href="#">
 					{"Traveling Hipster"}
 				</a>
